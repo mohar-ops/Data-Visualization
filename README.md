@@ -1,5 +1,6 @@
 # Data-Visualization
 Coursework projects compiled
+Data Viz 1,2,3 are in Python. Data Viz 4 is in Tableau.
 
 The Google Drive links for the zipped code, output and demo videos have also been uploaded.
 
