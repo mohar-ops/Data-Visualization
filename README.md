@@ -1,6 +1,16 @@
 # Data-Visualization
 Coursework projects compiled
 
+The Google Drive links for the zipped code, output and demo videos have also been uploaded.
+
+Data Viz 1: https://drive.google.com/file/d/1GCmSh6DHPBRlXckc-Nu4eIyw5gWvbemg/view?usp=share_link
+
+Data Viz 2: https://drive.google.com/file/d/1DLw0eyh0AW4lsJkbS-nFCGnLEGJoDuUN/view?usp=share_link
+
+Data Viz 3: https://drive.google.com/file/d/1_B0gjumyurrx_ne4Um5ZGj_FP1kxISPj/view?usp=share_link
+
+Data Viz 4: https://drive.google.com/file/d/1P6i7tXN9MhKnAmZLfF7wef368RMkF4eS/view?usp=share_link
+
 Dataset for Data Viz1:  ESSO - Indian National Centre for Ocean Information Services (INCOIS LAS) (An Autonomous Body under the Ministry of Earth Sciences, Govt. of India)
 The dataset consists of 5 folders, each for different variables, namely, sea surface salinity (SSS), sea surface temperature (SST), sea surface height anomaly (SSHA), meridional current, and zonal current, during the period December 2003 – December 2005. The datasets are at a 5-day interval, thus giving 147 timesteps. Each of the folders also has a screenshot of the web page giving latitude-longitude ranges of each variable. The datasets for SSS, SST, and SSHA have data for 187 longitudes ranging in [29.8892W, 119.8237W], and 188 latitudes ranging in [29.7511S, 29.7511N]. Thus, each data file for a time-stamp has 187*188=35156 scalar values. The zonal and meridional current values can be treated as a single 2-dimensional vector field, where, zonal current speed (east-to-west speed, along latitude) can be assumed to be a u- (or x-) component, and meridional current speed (north-to-south speed, along longitude), as v- (or y-) component. The datasets for current values have data for 181 longitudes ranging in [30W, 120W], and 189 latitudes ranging in [30.0005S, 30.0005N]. Thus, each data file for a time-stamp has 181*189=37209 scalar values in each file. 
 
@@ -31,15 +41,5 @@ Data Viz 3:Visualization of the given tabular data and remodeling it as a tree a
 
 Data Viz 4: A Tableau visualization of the dataset. To design a set of visualization tasks, implement a workflow with a feedback loop and data analytics along with visualization, and build a data story of the analysis of the dataset selected by the team. Our main aim is to effectively visualize the above data as a matrix and find the underlying patterns or clusters formed
 
-Datasets are uploaded in the dataset folder.
-The Google Drive links for the zipped code, output and demo videos have also been uploaded.
 
-Data Viz 1: https://drive.google.com/file/d/1GCmSh6DHPBRlXckc-Nu4eIyw5gWvbemg/view?usp=share_link
-
-Data Viz 2: https://drive.google.com/file/d/1DLw0eyh0AW4lsJkbS-nFCGnLEGJoDuUN/view?usp=share_link
-
-Data Viz 3: https://drive.google.com/file/d/1_B0gjumyurrx_ne4Um5ZGj_FP1kxISPj/view?usp=share_link
-
-Data Viz 4: https://drive.google.com/file/d/1P6i7tXN9MhKnAmZLfF7wef368RMkF4eS/view?usp=share_link
-
-
+Note: Datasets are too big to upload as folder. The zipped folders are also too big to upload, hence included as Google Drive Links.
